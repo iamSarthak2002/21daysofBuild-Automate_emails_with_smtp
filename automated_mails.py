@@ -22,13 +22,13 @@ Remember to spend 10$-20$ on your gift, but don't stress about it being the perf
 
 names_list = ['Sonny', 'Dharma', 'Malcolm', 'Jerry', 'Asiqur', 'Rose', 'Lillian']
 names_and_emails = [
-  ['Asiqur', 'asiqur@codedex.io'],
-  ['Dharma', 'dharma@codedex.io'],
-  ['Jerry', 'jerry@codedex.io'],
-  ['Lillian', 'lillian@codedex.io'],
-  ['Malcolm', 'malcolm@codedex.io'],
-  ['Rose', 'rose@codedex.io'],
-  ['Sonny', 'sonny@codedex.io'],
+  ['Asiqur', 'asiqur@machao.com'],
+  ['Dharma', 'dharma@machao.com'],
+  ['Jerry', 'jerry@machao.com'],
+  ['Lillian', 'lillian@machao.com'],
+  ['Malcolm', 'malcolm@machao.com'],
+  ['Rose', 'rose@machao.com'],
+  ['Sonny', 'sonny@machao.com'],
 ]
 
 if len(names_list) <= 1:
